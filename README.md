@@ -2,7 +2,7 @@
 
 ## Description 
 
-Counts the first word from each letter of a text running
+Counts the first word from each letter of a text and outputs to console 
 
 
 ## Author 
